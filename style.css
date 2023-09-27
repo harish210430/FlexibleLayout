@@ -73,6 +73,7 @@ section{
 /* for the third section */
 .section2{
     background-color: rgb(155, 74, 232);
+    background-image: none;
 }
 .container{
     max-width: 1160px;
